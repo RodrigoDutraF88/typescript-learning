@@ -1,4 +1,4 @@
-# TypeScript Learning
+# 📘TypeScript Learning
 
 A repository dedicated to documenting my journey of learning **TypeScript** through the official [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/).
 
@@ -7,14 +7,14 @@ This project contains examples, exercises, and notes based on the topics covered
 
 ##  Português
 
-Este repositório é uma forma de **documentar e praticar meu aprendizado de TypeScript**, utilizando o [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/) oficial como principal fonte de estudo.
+Este repositório é uma forma de documentar e praticar meu aprendizado de TypeScript, utilizando o TypeScript Handbook oficial como principal fonte de estudo.
 
 Cada arquivo aborda um conceito específico do TypeScript e contém exemplos e experimentos que utilizo para reforçar minha compreensão da linguagem.
 
 
-## 🇮Italiano
+## Italiano
 
-Questo repository è un modo per **documentare e mettere in pratica il mio percorso di apprendimento di TypeScript**, utilizzando il [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/) ufficiale come principale risorsa di studio.
+Questo repository è un modo per documentare e mettere in pratica il mio percorso di apprendimento di TypeScript, utilizzando il TypeScript Handbook ufficiale come principale risorsa di studio.
 
 Ogni file tratta un concetto specifico di TypeScript e contiene esempi ed esperimenti che utilizzo per consolidare la mia comprensione del linguaggio.
 
@@ -24,4 +24,3 @@ Ogni file tratta un concetto specifico di TypeScript e contiene esempi ed esperi
 
 [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/)
 
-> The TypeScript Handbook is the official documentation and main learning resource used throughout this repository.
